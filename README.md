@@ -4,13 +4,13 @@ Este repositorio documenta mi proceso completo para convertirme en un Data Scien
 
 ## Estructura
 
-- 01_Python_Fundamentals/
-- 02_Computer_Science_Basics/
-- 03_Statistics_Mathematics/
-- 04_Machine_Learning/
-- 05_Deep_Learning/
-- 06_Data_Engineering/
-- 07_Projects_Portfolio/
+- 01 Python Fundamentals
+- 02 Computer Science Basics
+- 03 Statistics Mathematics
+- 04 Machine Learning
+- 05 Deep Learning
+- 06 Data Engineering
+- 07 Projects Portfolio
 
 ## Filosofía de aprendizaje
 
