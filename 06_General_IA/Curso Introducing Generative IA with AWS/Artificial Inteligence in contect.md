@@ -114,9 +114,26 @@ en eset ejemplo encontramos que al activar que muestre lo que pasa antes descubr
 
 ## Defining Artificial Intelligence 
 
+Definiremos la IA como: 
+
+> IA consiste en simular el razonamiento y los procesos cognitivos similares a los de los seres humanos en computadoras.
+
+* **The Goal** : Es crear sistemas que puedan realizar tareas que al hacerlas los humanos requiren de *Inteligencia* 
+
+tareas como identificar ptrones, reconocer el habla, tomar decisiones y hacer predicciones
+
+![alt text](screen-shot-2023-10-27-at-10.03.10-am.jpg)
+
+Dfiniremos la inteligencia humana como la capacidad de entender, aprender y decidir basandose en la informacion que decidimos, esta inteligencia nos permite procesar la informacion aprendiendo de ella y utilizandola paar fundamentar nuestras acciones futuras. 
+  
+El proceso de asimilar datos, aprender de ellos y tomar deciciones futuras basadas en ellos es parte fundamental de la inteligencia humana 
+
+![alt text](screen-shot-2023-10-27-at-2.39.27-pm.jpg)
+
+Cuando hablamos de inteligencia artificial, pretendemos replicar estos procesos de la capacidad humana pero con ordenadores, esto a travez de programas informáticos sofisticados que pueden procesar enormes cantidades de datos aprender patrones de ellos y leugo tomar decisiones informadas o hacer predicciones basadas en ese conocimiento aprendido 
 
 
-
+## Inteligencia Artificial en sociedad 
 ---
 
 ## 🧠 Recuperación activa (sin mirar tus notas)
