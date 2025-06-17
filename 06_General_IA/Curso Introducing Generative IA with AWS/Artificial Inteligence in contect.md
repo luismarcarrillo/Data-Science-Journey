@@ -120,13 +120,13 @@ Definiremos la IA como:
 
 * **The Goal** : Es crear sistemas que puedan realizar tareas que al hacerlas los humanos requiren de *Inteligencia* 
 
-tareas como identificar ptrones, reconocer el habla, tomar decisiones y hacer predicciones
+tareas como identificar patrones, reconocer el habla, tomar decisiones y hacer predicciones
 
 ![alt text](screen-shot-2023-10-27-at-10.03.10-am.jpg)
 
-Dfiniremos la inteligencia humana como la capacidad de entender, aprender y decidir basandose en la informacion que decidimos, esta inteligencia nos permite procesar la informacion aprendiendo de ella y utilizandola paar fundamentar nuestras acciones futuras. 
+Definiremos la inteligencia humana como la capacidad de entender, aprender y decidir basandose en la informacion que decidimos, esta inteligencia nos permite procesar la informacion aprendiendo de ella y utilizandola para fundamentar nuestras acciones futuras. 
   
-El proceso de asimilar datos, aprender de ellos y tomar deciciones futuras basadas en ellos es parte fundamental de la inteligencia humana 
+El proceso de asimilar datos, aprender de ellos y tomar deciciones futuras basadas en ellos es parte fundamental de la inteligencia humana.
 
 ![alt text](screen-shot-2023-10-27-at-2.39.27-pm.jpg)
 
@@ -134,6 +134,55 @@ Cuando hablamos de inteligencia artificial, pretendemos replicar estos procesos 
 
 
 ## Inteligencia Artificial en sociedad 
+
+en la actualidad la IA pasa mas desapercivido de lo usual. la idea es simplificar, optimizar y personalisar ciertos procesos pero que en su mayoria pasan desapercividos
+estos estan mas presentes de lo usual en nuestras vidas, haciendo que las tareas sean mas sencillas, eficientes y personalizadas. podemos ver esta presencia en por ejemplo: 
+ 
+ * como etiquetamos automaticamente a nuestros amigos en nuestras fotos en las redes sociales.
+
+ * Deteccion de fraudes bancarios 
+
+ * Sugerencias de canciones en spotify, a partir de tu comportamiento de escucha 
+
+ *  El termostato inteligente en un edificio, este termostato aprende de su temperatura preferida y la cambia con el tiempo dependiendo del clima exterior, en este ejemplo vemos como este dispositivo de ia aprende de los patrones de uso, la hora del dia y la temperatura para garantizar comodidad y ahorro al mismo tiempo.
+
+ * Las apps como uber o didi en su opcion de compartir viajes utilizan ia para determinar las rutas mas rapidas, prediciendo los precios de las rutas en funcion de las demandas y garantizando que los conductores puedan encontrarse en muchos lugares de una ciudad, viajes rapidos y a menudo más bajos.
+
+ * cuando compras en linea los sistemas utilizan ia para recomendar productos segun su historial de navegación y compras anteriores. aumentando asi las ventas y sugiriendo productos de valor a los clientes. 
+
+ * los dispositivos portatiles como relojes inteligentes utilizan IA para monitoriar la frecuencia cardiaca los patrones de sueño y los niveles de actividad con el fin de proporcionar informacion y recomendaciones adaptadas promoviendo asi estilos de vida mas saludables adaptados. 
+
+ * Cuando usas un buscador la ia potencia al mismo para la sugerencia de autocompletar, cuando buscas algo verifica tu ortografia y autocorrige o sugiere las palabras que debes escribir 
+
+ * El mundo natural tambien se beneficia por ejemplo en le uso de apps par por ejemplo identificar especies de planatas en lso parques o en areas rurales. identificando asi a partir de una fotografia vrindando asi informacion e instrucciones de cuidado para que puedas cuidar mejor sus plantas. 
+
+ la ia esta en todo realmente, hay mucho software y algoritmos de inteligencia artificial magicos trabajando detras de ecena impulsando muchas tecnologias y procesos que nisiquiera nos podemos imaginar, la ia esta en constante evolución y expancion, utilizandose en otrso campos como el de la salud, para por ejemplo: 
+
+ * Predecir las necesidades de los pacientes
+
+ o en cidades para optimizar el flujo de trafico 
+
+ > HAY MUCHO POTENCIAL PARA MEJORAR LA EXPERIENCIA HUMANA Y RESOLVER DESAFÍOS COMPLEJOS
+
+ PERO TAMBIEN ENFRENTAMOS **RETOS**, por que el objetivo de la inteligencia artificial es aprender como lo hacen los humanos, **tenemos que tenetr cuidado de como y que aprenden las computadoras, esto se llama uso resposable y más actualmente uso responsable de la IA. 
+
+ dado que la IA APRENDE DE TODO TIPO DE DATOS, debemos tener en cuenta de donde vienen esos datos y que aprende la ia de ellos, asegurarnos de que la IA **sea justa e imparcial y respete los derechos humanos, la equidad y la privacidad, es importante para que la humanidad y la sociedad se puedan beneficiar de ella. 
+
+ tenemos en  cuenta que la ia imita comoa prendemos pero no tienela capacidad etica, ni de conciencia ni de valores propios de los humanos, somos nosotros los humanos quienes debemos garantizar ese uso ético y beneficioso para todos. 
+
+ si bien la IA aprende de los datos,  es importante cuidar de que datos aprende, es vital ya que puede aprender de datos que puedan promover nuestros perjuicios, errores o injusticias 
+
+ se pueden presentar situaciones de mal uso si por ejemplo los datos estan sesgados(datos que repliquen comportamientos o patrones machistas, racistas, clasistas, etc), si estos no protegen la privacidad violando asi politicas de datos personales y poniendo en peligro la identidad del usuario de estos datos y tambien el mal uso si o hay un humano detras de estos procesos que supervise que no tome deciciobes injustas. 
+
+ en estas dos preguntas centrales de la etica de la ia es: 
+* ¿ Que aprenden las computadoras? 
+
+ aca nos referimos a los datos de los cuales la ia( modelos aprenden) se entrena si estos datos estan incompletos, mal etiquetados o estan cargados de prejuicios sociales ( Los reflejan en sus patrones) la ia aprendera de manera distorcionada 
+
+ * ¿ Como apŕenden las computadoras ? 
+
+ en esta parte hacemos referencia a los algoritmos y procesos de aprendizaje, si nos son transparentes o explicables no sabremos como funciona como la IA toma y por que toma ciertas decisiones. 
+
 ---
 
 ## 🧠 Recuperación activa (sin mirar tus notas)
