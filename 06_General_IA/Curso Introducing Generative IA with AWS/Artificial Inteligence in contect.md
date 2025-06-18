@@ -19,7 +19,6 @@ aprender el contexto de la IA como ha avanzado y su actual democratizacion e imp
 -  
 -  
 -  
-
 ---
 
 ## 📒 Apuntes principales (Codificación activa del conocimiento)
@@ -170,7 +169,7 @@ estos estan mas presentes de lo usual en nuestras vidas, haciendo que las tareas
 
  tenemos en  cuenta que la ia imita comoa prendemos pero no tienela capacidad etica, ni de conciencia ni de valores propios de los humanos, somos nosotros los humanos quienes debemos garantizar ese uso ético y beneficioso para todos. 
 
- si bien la IA aprende de los datos,  es importante cuidar de que datos aprende, es vital ya que puede aprender de datos que puedan promover nuestros perjuicios, errores o injusticias 
+ si bien la IA aprende de los datos,  es importante cuidar de que datos aprende, es vital ya que puede aprender de datos que puedan promover nuestros perjuicios, errores o injusticias.
 
  se pueden presentar situaciones de mal uso si por ejemplo los datos estan sesgados(datos que repliquen comportamientos o patrones machistas, racistas, clasistas, etc), si estos no protegen la privacidad violando asi politicas de datos personales y poniendo en peligro la identidad del usuario de estos datos y tambien el mal uso si o hay un humano detras de estos procesos que supervise que no tome deciciobes injustas. 
 
@@ -182,6 +181,98 @@ estos estan mas presentes de lo usual en nuestras vidas, haciendo que las tareas
  * ¿ Como apŕenden las computadoras ? 
 
  en esta parte hacemos referencia a los algoritmos y procesos de aprendizaje, si nos son transparentes o explicables no sabremos como funciona como la IA toma y por que toma ciertas decisiones. 
+
+ ## Amazon's Alexa 
+
+ veremos una demostracion de amazon alexa en vivo 
+
+ vamos a recordar a Eliza uno de los primeros chatbots crado en la decada de los 1960 y que funcionaba con identificacion de patrones y conjuntos de reglas asociadas  a esos patrones 
+
+ ahora exploraremos lo mas moderno que es alexa que vive en un EcoD, recordamos que la IA es una replica atravez de algoritmos y programas informaticos del razonamiento humano y los procesos cognitivos, es una combinacion ambiciosa de informatica y conjuntos de datos sólidos que apuntan a permitir que las maquinas actúen con niveles de inteligencia comparados a los humanos. 
+
+ el onjetivo de la ia es crear sistemas capaces de realizar tareas que al hacerlos los humanos requieren inteligencia tales como las que ya hemos mencionado anteriormente 
+
+ ahora en el caso de alexa, ella usa la ia para comprender y procesar la voz a travez de comandos brinda respuestas precisas y aprender de las interacciones que tengamos con ella para mejorar con el tiempo su desempeño y brindar una mejor experiencia 
+
+alexa reconoce el patron de mi voz, mi indicacion y el contexto de la misma. la ia como alexa no busca solo entender sino adaptarse a nuestras preferencias haciendo la experiencia de uso para el usuario mucho mas comoda y personalizad
+
+## IA Responsable 
+
+   ya hemos visto de todo lo que es capaz la ia, pero teniendo en cuenta de que no solo busca obtener la respuesta correcta, tambien busca y se rige garantizando que su funcionamiento sea justo, seguro y confiable. 
+
+   la democratizacion y su expancion en todo ecenario no solo en lo que vemos sino tambien en lo que esta backend plantea ciertas preocupaciones y preguntas como ¿ Que ocurre si la IA toma decisiones injustas? ¿Que pasa si hace un mal uso de los datos personales o actua de forma incomprencible para los humanos. 
+
+   aca entra la IA Responsable. se trata de crear sistemas de IA que sean justos, seguros, transparentes y esten bajo control humano. 
+
+![alt text](screenshot-2025-02-21-at-3.48.23pm-1.jpg)
+
+  este framework tiene las 8 dimenciones o aspectos de la IA Responsable para  construir una IA en la que la gente pueda confiar. 
+
+* **Equidad:La IA debe tratar a todos por igual** : 
+ responda a todos sin sesgos y con imparcialidad. 
+
+  Imagina que le preguntas a Alexa: "¿Cuáles son las mejores universidades cerca de mí?", pero esta solo recomienda universidades para un grupo específico de personas, dejando fuera a otras. Eso sería una IA injusta.
+
+  La equidad significa que la IA debe funcionar para todos, no solo para un grupo específico. La IA debe evitar la discriminación y estar diseñada para que todos los usuarios obtengan resultados precisos y útiles.
+
+* **Explicabilidad: la IA no debe ser una caja negra**. 
+
+  DEBEMOS SABER COMO Y POR QUE TOMA LAS DECICIONES QUE ALGORITMO O ESTRUTURAS(El mismo programa lleva a que tome ciertas deciciones) como se estruturo esa pregunta bajo que estrutura se considero y como se configuro bajo que criterio y con que datos o fuentes completo la instruccion.
+
+  Si le preguntas a un chatbot: "¿Por qué me diste esta respuesta?", y no puede explicarlo, eso es un problema.
+
+  Explicabilidad significa que la IA debe ser capaz de describir claramente cómo tomó una decisión. Si un modelo de IA rechaza una solicitud de préstamo o recomienda un tratamiento médico, los humanos deben comprender el motivo.
+
+
+* **Privacidad y seguridad: la IA debe proteger los datos personales**  
+
+  tener limites de seguridad como datos personales, usabilidad restringida, reconocimiento facial mal utilizado o sin permiso entre otras tareas o limitaciones que deberia tener la misma con el fin de mantener la privacidad del usuario 
+
+  ¿Te parecería bien que una IA grabara todas las conversaciones de tu casa y las compartiera? ¡Probablemente no!
+
+  Privacidad significa que la IA debe dar a los usuarios control sobre sus datos personales. Seguridad significa mantener esos datos a salvo de hackers o filtraciones.
+
+* **Transparencia: la IA no deberia ocultar como funciona.** 
+
+  ¿Alguna vez has usado una aplicación que cambia sus recomendaciones aleatoriamente sin decirte por qué? Eso es falta de transparencia.
+
+  La transparencia implica que la IA debe compartir abiertamente cómo se creó, qué puede hacer y cuáles son sus límites. Si se utiliza un modelo de IA en la contratación, las empresas deben explicar cómo seleccionan a los candidatos.
+
+* **Robustez: La IA deberia funcionar incluso en cituaciones impredecibles**  
+  ¿Qué pasaría si Alexa malinterpretara tu pregunta y empezara a pedir productos al azar? ¿O si un coche autónomo interpretara mal una señal de stop?
+
+  Robustez significa que la IA debe ser capaz de manejar errores, situaciones nuevas y entradas inesperadas sin fallar.
+
+* **Gobernanza: la IA debe seguir reglas y estandares éticos**  
+
+  Al igual que las empresas tienen normas de seguridad y equidad, la IA también las necesita. La gobernanza implica garantizar que la IA cumpla las leyes, las directrices éticas y las políticas de la empresa.
+
+  Por ejemplo, la IA en las redes sociales debería evitar la difusión de contenidos dañinos, y la IA en las finanzas debería evitar el fraude.
+
+* **Seguridad: La IA no deberia causar daños**  
+
+  ¿Qué pasaría si una IA médica recomendara un diagnóstico erróneo? ¿O si un coche autónomo no se detuviera en un semáforo en rojo?
+
+  La seguridad de la IA significa probar y diseñar la IA con cuidado para evitar daños a las personas o al medio ambiente.
+
+* **Controlabilidad: los humanos deben seguir al mando**  
+
+  La IA nunca debería estar completamente fuera del control humano. Controlabilidad significa que las personas deberían poder supervisar, corregir o detener los sistemas de IA cuando sea necesario.
+
+  Por ejemplo, un chatbot de IA no debería difundir información falsa y los coches autónomos deberían tener funciones de parada de emergencia.
+
+* **Por que es importante que nos intertese la IA responsable?**  
+
+  * La IA está dando forma al futuro de la educación, el empleo, las redes sociales e incluso la atención médica.  
+
+  * Si usas Alexa, chatbots o sistemas de recomendación, ya estás interactuando con IA todos los días.  
+
+  * Como futuros líderes y creadores de IA, ustedes tienen el poder de ayudar a construir sistemas de IA justos, seguros y transparentes.
+
+Si tiene en cuenta estas ocho dimensiones de la IA responsable, podrá ayudar a crear una IA que beneficie a todos.
+
+
+
 
 ---
 
