@@ -94,9 +94,55 @@
 
   este proceso mediante un ciclo de entrenamiento, prueba y ajuste, buscamos optimizar el rendimiento del modelo, la busqueda de esta optmizacion es optimizar el rendimeinto del modelo para dar en el blanco, triunfando en nuestro objetivo sea cual sea ese el motivo del desarrollo del modelo. 
 
+  ### Types Of Machine Learning
 
+  Los tipos de Machine Learning dependen y varían en función de la data que vas a utilizar y la tarea que quieres resolver mediante el uso de ML, o sea, para qué quieres usar ML o qué buscas resolver a través de ML.
 
----
+  * **Supervised Learning**: Una forma de describir este sería algo como aprender de un maestro; le proporcionas datos al modelo que elegiste previamente y le dices la respuesta correcta para cada punto de datos. Como en el ejemplo, el modelo aprende de estas imágenes y etiquetas, pudiendo identificar imágenes (iguales) en el futuro, nuevas e inéditas. En este tipo de aprendizaje, los datos de entrenamiento proporcionados al algoritmo de ML están etiquetados.
+
+  ![alt text](screen-shot-2023-10-27-at-5.55.07-pm.jpg)
+
+  **When to Use**
+
+  Usa este tipo de entrenamiento en ML si tienes datos etiquetados y deseas que el modelo aprenda una asignación de entradas a salidas. Algunos problemas comunes que se pueden resolver con un enfoque supervisado son:
+
+    * Clasificación de imágenes
+    * Speech Recognition (audios etiquetados con lo que se escuche en el mismo)
+    * Se puede usar también para crear un sistema de aprendizaje automático para un automóvil que pueda conducirse solo. Su uso principal acá es para tareas como identificar peatones, otros automóviles y detectar carriles. El modelo procesaría datos de video etiquetados que identifican cruces de peatones, personas, marcas en la calle, así como las respuestas correctas a tomar.
+    * Si tenemos conjuntos de datos etiquetados de canciones y sus artistas asociados.
+    * Problema en el área bancaria: Fraude bancario, se puede entrenar un modelo en transacciones bancarias que estén etiquetadas como fraudulentas o genuinas.
+
+  * **Unsupervised Learning**:
+    Es lo opuesto al supervisado, imagina tener que comprender algo sin una guía. Acá le das una gran cantidad de datos al modelo y dejas que él encuentre patrones y estructuras por sí solo. Estos datos proporcionados al modelo no contienen etiquetas para aprender y predecir la respuesta correcta, sino que debe identificar patrones en los mismos datos. **Es como entregarle a alguien un rompecabezas sin mostrarle la imagen de la caja**. Esto puede resultar beneficioso ya que permite identificar una gran cantidad de datos donde las etiquetas a menudo no están disponibles. Piensa en recopilar todos los datos de internet: habrá diferentes tipos de datos ahí, texto, imagen y video, y no estarán etiquetados de ninguna manera útil. ¿Qué patrones se pueden aprender de todos esos datos?
+
+  ![alt text](screen-shot-2023-10-27-at-5.57.55-pm.jpg)
+
+  * **When to use: Use cases**
+    Elige utilizar el aprendizaje no supervisado cuando no tengas datos etiquetados y desees que el modelo encuentre estructuras o patrones en los datos.
+
+    * Se puede utilizar para, por ejemplo, **enseñar a una computadora a escribir una canción**; al procesar los datos sin etiquetas puede identificar patrones en canciones existentes y guiar la creación de nuevas melodías o ritmos.
+    * También se puede usar para crear **modelos generativos que puedan escribir código por usted**.
+
+    Este tipo de aprendizaje puede identificar estructuras o patrones comunes en fragmentos de código existente y aprender cuándo usarlos, pero esta identificación no es suficiente para completar esta tarea. El aprendizaje no supervisado a menudo se combina con otras técnicas para lograr un modelo que pueda escribir canciones y código.
+
+  * **Reinforcement Learning**
+  ![alt text](screen-shot-2024-01-18-at-3.58.27-pm.jpg)
+
+  Este es muy diferente a los otros tipos de aprendizaje; esto es aprender **por ensayo y error**. Algo que lo pueda ejemplificar es cómo se entrena un perro por un sistema de incentivo de recompensa o castigo que guíe su comportamiento, maximizando el comportamiento deseado y así aprendiendo lo que se quiere que él haga.
+
+  El sistema realiza una acción y, si es la acción correcta, obtiene una recompensa. Y si es la acción incorrecta, podría recibir una penalización. Con el tiempo, el sistema aprende a tomar decisiones que maximicen sus recompensas.
+
+  Podríamos ver un ejemplo popular en los videojuegos, donde la IA aprende estrategias óptimas al jugar el juego repetidamente. En el RL, el algoritmo aprende a partir de la experiencia y la experimentación (ensayo y error).
+
+  * **Use Cases**
+    Esta es la opción correcta cuando deseas que tu modelo aprenda interactuando con un entorno y recibiendo recompensas o penalizaciones por sus acciones. Como tal, no se requieren datos etiquetados, solo comentarios sobre el rendimiento. Se utiliza cuando:
+
+    * Quiero modelos de ML para juegos y en robótica; podemos enseñarle a una máquina a jugar videojuegos, esta interactúa con el juego realizando acciones, recibiendo así recompensas o penalizaciones en función de sus acciones y así perfeccionando su estrategia.
+    * También en aspectos de toma de decisiones de un automóvil autónomo, donde el automóvil aprende estrategias de conducción óptimas al interactuar con su entorno. En el mundo real, muchos problemas, en especial los complejos, implican una combinación de estos tipos de aprendizajes. Cuando utilizamos una combinación de aprendizajes, a menudo significa que se están utilizando múltiples modelos o componentes de un sistema de IA más grande, donde cada modelo podría manejar una tarea específica. Como en un carro autónomo, podría haber un modelo entrenado por SL que detecte peatones, otro modelo de UL se encarga de agrupar tipos de condiciones de la carretera y otro utiliza el aprendizaje por refuerzo para tomar decisiones de conducción en tiempo real basadas en condiciones dinámicas. Estos modelos, trabajando juntos, cada uno aporta su pieza al rompecabezas y ayuda a que el sistema funcione de manera cohesiva. Es como tener especialistas en un grupo donde cada uno aporta su experiencia para lograr un objetivo común. Así podemos lograr tareas complejas con Inteligencia Artificial.
+
+  ![alt text](image-7.png)
+
+  ---
 
 ## 🔧 Implementación práctica
 > ¿Cómo puedo usar esto en mi vida, estudio, trabajo o proyectos?
