@@ -33,7 +33,6 @@ definiremos asi atravez de una comparacion lo que es ia:
   > Imaginemos que una computadora, es un estudiante en un aula. le suministramos informacion o datos y con el tiempo mediante el estudio y la practica adquiere conocimientos y se vuelve más competente. De manera similar a la educacion de un estudiante evoluciona desde el aprendizaje de palabras y números basicos hasta temas complejos, la inteligencia de las computadoras también ha evolucionado 
 
 
-
 ![ ](screen-shot-2023-10-27-at-9.58.32-am.jpg)
 
 Historical Development 
