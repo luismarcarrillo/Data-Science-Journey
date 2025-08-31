@@ -1,0 +1,63 @@
+.
+├── Certificacion Data Analyst With Google 
+│   ├── Curso 1: Aspectos Básicos : Datos, datos, en todas partes
+│   └── Estrutura general de la certificacion y Cronograma.md
+├── estructura.txt
+├── How  to Start a Career in Data Science
+│   └── Introduccion.md
+├── Learning Path
+│   ├── Expansión detallada_ Fundamentos de Programación y.md
+│   ├── Expansión detallada_ Matemáticas y Estadística par.md
+│   └── Ruta de aprendizaje (learning path) para ser Data.md
+├── Modulo Data_Analysis
+│   └── README.md
+├── Modulo General_IA
+│   ├── Curso Introducing Generative IA with AWS
+│   │   ├── Artificial Inteligence in contect.md
+│   │   ├── Ejemplo Chatbot basico.ipynb
+│   │   ├── Fundamentos de IA y Machine Learning.md
+│   │   ├── Generalidades del curso.md
+│   │   ├── image-1.png
+│   │   ├── image-2.png
+│   │   ├── image-3.png
+│   │   ├── image-4.png
+│   │   ├── image-5.png
+│   │   ├── image-6.png
+│   │   ├── image-7.png
+│   │   ├── image-8.png
+│   │   ├── image.png
+│   │   ├── screen-shot-2023-10-27-at-10.03.10-am.jpg
+│   │   ├── screen-shot-2023-10-27-at-2.39.27-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-5.55.07-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-5.57.55-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-6.08.43-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-6.10.32-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-6.12.48-pm.jpg
+│   │   ├── screen-shot-2023-10-27-at-9.58.32-am.jpg
+│   │   ├── screen-shot-2023-10-27-at-9.59.25-am.jpg
+│   │   ├── screen-shot-2024-01-18-at-3.58.27-pm.jpg
+│   │   ├── screenshot-2025-02-21-at-3.48.23pm-1.jpg
+│   │   └── screenshot-2025-02-21-at-3.48.23pm.jpg
+│   └── README.md
+├── Modulo Machine_Learning
+│   └── README.md
+├──  Modulo Mathematics_Basics
+│   ├── Calculus
+│   ├── Linear Algebra
+│   ├── README.md
+│   └── Stadistics & Probability
+├── Modulo Portafolio
+│   └── README.md
+├── Modulo Programming Fundamentals & DSA
+│   ├── 04_Programming_Fundamentals 
+│   │   └── Programacion 101
+│   └── CS50 Harvard 2025
+│       └── README.md
+├──  Modulo Python_Fundamentals
+│   ├── Ejercicios Practicos
+│   │   └── README.md
+│   └── README.md
+├── progress_log.md
+└── README.md
+
+20 directories, 41 files
