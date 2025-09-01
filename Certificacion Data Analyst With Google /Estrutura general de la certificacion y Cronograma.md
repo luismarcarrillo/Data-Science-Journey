@@ -22,4 +22,4 @@ En nuestro mundo inteligente y los millones de dispositivos inteligentes que hay
 
 por ejemplo google procesa 40.000 busquedas por segundo eso son 3.500 millones de busquedas al dia y al año 1,200 billones, pongamos en contexto las cifras por ejemplo youtube tiene  casi 2 mil millones de usuarios y si estos fueran un pais serian el mas grande del mundo.
 
-Todos esos datos estan transformando el mundo que nos rodea. Se puede decir que los "datos son los recursos mas valiosos del mundo"
+Todos esos datos estan transformando el mundo que nos rodea. Se puede decir que los **"datos son los recursos mas valiosos del mundo"**
