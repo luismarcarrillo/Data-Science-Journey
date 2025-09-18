@@ -40,7 +40,60 @@
 
 - elegir, recopilar y seleccionar datos.
 - elegir los algoritmos y los enfoques del modelo.
-- Entrenar el modelo con mis datos para probar, ajustar y optimizar su rendimiento. 
+- Entrenar el modelo con mis datos para probar, ajustar y optimizar su rendimiento.
+
+## Discriminative Modeling: Use Cases
+
+los enfoques de machine learning estan en constante evolucion, como el deep learning y los transformers han evolucionado el aprendizaje automatico y la IA.
+
+los modelos pueden clasificarse según sus capacidades y objetivos subyacentes.
+
+Estas son las dos categorias mas grandes que han surgido en la IA hasta el momento.
+
+- La IA discriscriminativa o predictiva.
+
+ esta trata de la diferenciación, funciona identificando limites dentro de los datos, determinando donde termina una categoria y comienza otra, estos modelos se entrenan para reconocer patrones y hacer preicciones basadas en los datos de entrada que reciben, esencialmente responden a la pregunta: dado estos datos a que categoria perteneces o basado en esta entrada cual es su salida.
+
+<div>
+  <img src="//video.udacity-data.com/topher/2023/October/653fdd10_screen-shot-2023-10-30-at-12.42.29-pm/screen-shot-2023-10-30-at-12.42.29-pm.jpeg" alt="texto alternativo" width="600" height="350">
+</div>
+
+Los **decision tree** y **linear regression** son dos enfoques tradicionales del aprendizaje automático discriminativo. Los modelos discriminativos que usan aprendizaje profundo incluyen:
+
+- **CNN (Convolutional Neural Networks)** para tareas como reconocimiento de imágenes y reconocimiento de canciones.
+- **RNN (Recurrent Neural Networks)** para secuencias como series temporales o texto.
+
+Estas redes neuronales pueden entrenarse para identificar o categorizar canciones por sus patrones de audio, también para machine learning de autos autónomos. Los modelos de **regresión logística** pueden entrenarse para discriminar entre transacciones legítimas o fraudulentas, basándose en patrones de datos de transacciones para detectar fraudes bancarios.
+
+- **IA Generativa**
+
+  Los modelos generativos se centran en **crear**: buscan comprender la estructura subyacente de los datos con los que se entrenan y luego generar nuevos datos que imiten o estén alineados con esa estructura. En esencia, intentan replicar o generar datos que sean indistinguibles de los reales.
+
+  Los modelos generativos responden a la pregunta: *¿Cómo puedo producir más datos como estos?*
+
+  Un ejemplo sería la creación de piezas nuevas y originales de música después de entrenarse con composiciones clásicas. Los modelos generativos pueden encontrarse tanto en el aprendizaje supervisado como en el no supervisado, e incluso en el aprendizaje semi-supervisado, que utiliza tanto datos etiquetados como no etiquetados.
+
+  Algunos enfoques tradicionales de machine learning, como los **Modelos Ocultos de Markov**, pueden generar nuevos datos sintéticos. Entre los modelos que aprovechan el deep learning destacan las **Redes Generativas Antagónicas (GANs)** y los **Autoencoders Variacionales (VAEs)**, capaces de generar imágenes, música o texto completamente nuevos.
+
+  Los **transformers**, con su arquitectura encoder-decoder, han tenido gran éxito en el procesamiento de lenguaje natural, permitiendo generar texto coherente y relevante en contexto.
+  Tanto los modelos generativos como los discriminativos pueden construirse utilizando aprendizaje automático tradicional o aprendizaje profundo. La elección entre uno u otro depende de la complejidad de la tarea, la calidad y cantidad de los datos disponibles, así como de los recursos computacionales.
+
+  ![Modelos Generativos y Discriminativos](image-9.png)
+
+  Ambos tipos de modelos siguen evolucionando, permitiendo predicciones más precisas y una generación de datos cada vez más sofisticada.
+
+  ![Ejemplo de modelo discriminativo](screen-shot-2023-10-30-at-12.42.29-pm.jpg)
+
+  ---
+
+  ### Inteligencia Artificial (IA) y sus subcampos
+
+  - **Inteligencia Artificial (IA):** Consiste en simular el razonamiento humano en computadoras para realizar tareas que requieren inteligencia, como reconocer patrones, tomar decisiones y realizar predicciones.
+  - **Aprendizaje Automático (ML):** Es un subconjunto de la IA que implica el aprendizaje a partir de datos para mejorar tareas con el tiempo. Utiliza algoritmos para encontrar patrones o regularidades en los datos.
+  - **Modelos en ML:** Son estructuras matemáticas o sistemas computacionales que aprenden de los datos para hacer predicciones o tomar decisiones.
+  - **Aprendizaje Profundo (Deep Learning):** Otro subconjunto del aprendizaje automático, utiliza redes neuronales (inspiradas en la estructura y función del cerebro humano) para analizar diversos factores de los datos.
+  - **Ética de la IA:** Es fundamental para garantizar la equidad, la imparcialidad y el respeto de los derechos humanos, abordando preocupaciones sobre las fuentes de datos y lo que la IA aprende de ellas.
+
 
 ### Enfoques tradiccionales de machine learning
 
@@ -54,36 +107,42 @@
 
 otro enfoque tradicional es **Regression Algorithms** este es un método estadístico que modela la **Relacion** entre una variable dependiente y una o mas variables independientes con la finalidad de predecir vallores numericos.
 
-Algoritmos de agrupamiento como K-Means, este algorirmo lo que hace es agrupar los datos en clústers en funcion de su similitud 
+Algoritmos de agrupamiento como K-Means, este algorirmo lo que hace es agrupar los datos en clústers en funcion de su similitud
 
 como por ejemplo tenemos que podemos emplear estos algoritmos de ordenamiento para segmentar y categorizar datos de los sensores de vehiculos autonomos. estos datos usualmente se almacenan en nubes de puntos y agrupaciones de clusters pueden ayudar a agrupar estos puntos para identificar objetos u obstaculos al rededor del automóvil
 
-a medida que los algoritmos de ML avanzaron y evolucionaron la computacion se volvio mas poderosa y confiable y un nuevo enfoque de ML comenzóa impulzar la IA este es el **Deep Learning** este tipo de aprfendizaje profundo esta soportado o inspirado en la estrutura y funcion del cerebro humano mas concretamente en las redes neuronales, utilizar **algoritmos llamados redes neuronales artificiales** que consisten en nueronas interconectadas. los modelos deep learning en especial los que tienen muchas capas profundas se destacan en el procesamiento de grandes cantidades de datos y **son cruciales en tareas como el reconocimiento de imagen y voz**. 
+a medida que los algoritmos de ML avanzaron y evolucionaron la computacion se volvio mas poderosa y confiable y un nuevo enfoque de ML comenzóa impulzar la IA este es el **Deep Learning** este tipo de aprfendizaje profundo esta soportado o inspirado en la estrutura y funcion del cerebro humano mas concretamente en las redes neuronales, utilizar **algoritmos llamados redes neuronales artificiales** que consisten en nueronas interconectadas. los modelos deep learning en especial los que tienen muchas capas profundas se destacan en el procesamiento de grandes cantidades de datos y **son cruciales en tareas como el reconocimiento de imagen y voz**.
 
  ![alt text](screen-shot-2023-10-27-at-6.10.32-pm.jpg)
 
-en lugar de estar programado explicitamente para realizar estas tareas, aprende patrones de los datos a medida que intrudicimos datos en la red neuronal el modelo ajusta sus pesos internos en funcion de la   diferencia entre su salida y el resultado deseado. a este proceso le llamamos entrenamiento, esta capacidad permite que estos sistemas extraigan y aprendan 
+en lugar de estar programado explicitamente para realizar estas tareas, aprende patrones de los datos a medida que intrudicimos datos en la red neuronal el modelo ajusta sus pesos internos en funcion de la   diferencia entre su salida y el resultado deseado. a este proceso le llamamos entrenamiento, esta capacidad permite que estos sistemas extraigan y aprendan
 automaticamente características complejas de los datos sin procesar. les permite lograr una alta precisión en tareas complejas uno ejemplos de sus funcionalidades son cuando identifican a alguien para etiquetarlo en redes sociales.
 
 - Pueden tambien encontrar en sistemas de prediccion de precios de acciones o modelos de prediccion de perdida de clientes donde el sistema anticipa si un cliente dejara de usar un servicio en funcion de su comportamiento pasado.
 
 - las CNN Convolutional Neural Network ( Redes Neuronales Convolucionales) son uan version especializada de las redes neuronales diseñadas para tareas de visión destacandose por mantener el contexto espacial de la imagen, campurando caracteristicas relevantes, esta tecnologia impulsa cosas como photo search.
 
-- las RNN Recurrent Neural Network o redes neuronales recurrentes **tiene conexiones que se repiten en sentido inverso** esta arquitectura las hace especiales para datos secuenciales como series de tiempo o lenguaje natural. son habiles en predicción de secuencias como predecir la siguiente palabra en una oración. utile en bots y prediccion al escribir en el teclado o buscadores. son expertas en manejo de datos secuenciales lo que hace buenas para tareas como prediccion de series de tiempo en precios de acciones. 
+- las RNN Recurrent Neural Network o redes neuronales recurrentes **tiene conexiones que se repiten en sentido inverso** esta arquitectura las hace especiales para datos secuenciales como series de tiempo o lenguaje natural. son habiles en predicción de secuencias como predecir la siguiente palabra en una oración. utile en bots y prediccion al escribir en el teclado o buscadores. son expertas en manejo de datos secuenciales lo que hace buenas para tareas como prediccion de series de tiempo en precios de acciones.
 
-### Generative Deep Learning 
+### Generative Deep Learning
 
- la IA generativa tambien se sirve de el Deep Learning, estos modelos tienen como **objetivo: generar nuevas muestras de datos que sean similares a los datos de entrada se puede utilizar a menudo para crear contenido nuevo o simular datos. 
+La IA generativa también se apoya en el Deep Learning. Estos modelos tienen como **objetivo generar nuevas muestras de datos que sean similares a los datos de entrada**; se pueden utilizar para crear contenido nuevo o simular datos.
+
 ![alt text](screen-shot-2023-10-27-at-6.12.48-pm.jpg)
- - Se podria usar por ejemplo para entrenar un modelo generativo para componer nuevas canciones aprendiendo los patrones y estructuras de la música existente.**las acquitecturas de transformers, una combinacion de enfoques de ML que consisten en codificadores y decodificadores, tambien utiliza aprendizaje profundo.** los codificadores procesan los datos de entrada mientras que los decodificadores producen la salida al igual que las redes neuronales profundas, los trasnformers constan de múltiples capas de computacion a medida que los datos de entrada avanzan a travéz de estas capas, se extraen patrones y caracteristicas cada vez mas complejas, en modelos de transformers mucho mas profundos, puede haber docenas o incluso cientos, de estas capas. este enfoque es definitivo en tareas como traduccion o generacion de codigo, a mejorado el NLP permitiendo que estos modelos entiendan en lenguaje mejor que nunca.
 
- ### How do you decide on algorithms an approaches? 
- ![alt text](image-8.png)
+Por ejemplo, se podría entrenar un modelo generativo para componer nuevas canciones aprendiendo los patrones y estructuras de la música existente.
 
- la decisión de qué algoritmo o modelo utilizar depende de los datos,el problema y los recursos disponibles 
+Las **arquitecturas de transformers** son una combinación de enfoques de ML que consisten en codificadores y decodificadores, y también utilizan aprendizaje profundo. Los codificadores procesan los datos de entrada, mientras que los decodificadores producen la salida. Al igual que las redes neuronales profundas, los transformers constan de múltiples capas de computación. A medida que los datos de entrada avanzan a través de estas capas, se extraen patrones y características cada vez más complejas. En modelos de transformers mucho más profundos, puede haber docenas o incluso cientos de estas capas. Este enfoque es fundamental en tareas como traducción o generación de código, y ha mejorado el NLP permitiendo que estos modelos entiendan el lenguaje mejor que nunca.
 
+---
 
- **Modelos**:
+### ¿Cómo decides qué algoritmos y enfoques usar?
+
+![alt text](image-8.png)
+
+La decisión de qué algoritmo o modelo utilizar depende de los datos, el problema y los recursos disponibles.
+
+**Modelos:**
 
 ---
 
