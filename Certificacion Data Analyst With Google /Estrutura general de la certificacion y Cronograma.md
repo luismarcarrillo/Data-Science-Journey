@@ -4,7 +4,7 @@ Los datos nos ayudan a tomar decisiones mas informadas en la vida cotidiana y lo
 
 ## Bienvenido al certificado de Google Data Analytics
 
-que podemos encontar que tienen  en comun cientos de industrias: All use DATA, cualquier tipo de organizacion e industria necesita analistas de datos para mejorar sus procesos, identificar oportunidades y tendencias, lanzar nuevos productos, proporcionar un exelente servicio al cliente y tomar deciciones bien pensadas.
+que podemos encontar que tienen  en comun cientos de industrias: All use DATA, cualquier tipo de organizaion e industria necesita analistas de datos para mejorar sus procesos, identificar oportunidades y tendencias, lanzar nuevos productos, proporcionar un exelente servicio al cliente y tomar deciciones bien pensadas.
 
 *Pero Exactamente que podriamos decir que son los datos?*
 DATA: A collection of facts, this collection can include numbers, pictures, videos, words, mesurements, observations and more
@@ -23,3 +23,5 @@ En nuestro mundo inteligente y los millones de dispositivos inteligentes que hay
 por ejemplo google procesa 40.000 busquedas por segundo eso son 3.500 millones de busquedas al dia y al año 1,200 billones, pongamos en contexto las cifras por ejemplo youtube tiene  casi 2 mil millones de usuarios y si estos fueran un pais serian el mas grande del mundo.
 
 Todos esos datos estan transformando el mundo que nos rodea. Se puede decir que los **"datos son los recursos mas valiosos del mundo"**
+
+El Certificado de Google Data Analytics está diseñado para proporcionar nuevas lecciones cada semana 
